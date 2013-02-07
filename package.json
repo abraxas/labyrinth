@@ -17,6 +17,10 @@
     },
     "dependencies": {
       "bouncy": "*",
+      "step": "*",
+      "dirty": "*",
+      "amqp": "*",
+      "barista": "git://github.com/kieran/barista.git",
       "crdt": "*"
     },
     "devDependencies": {
